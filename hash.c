@@ -58,3 +58,7 @@ void Insert(ElementType key, HashTable H){
 
 	
 }
+void Delete(ElementType key, HashTable H){
+	
+
+}
